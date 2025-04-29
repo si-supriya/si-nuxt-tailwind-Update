@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{267:function(t,n,l){"use strict";l.r(n);var o={name:"Button"},e=l(43),component=Object(e.a)(o,(function(){return(0,this._self._c)("button",{staticClass:"btn-class"},[this._v("\n  Button\n")])}),[],!1,null,null,null);n.default=component.exports;installComponents(component,{Button:l(267).default})}}]);
